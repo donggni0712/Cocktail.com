@@ -1,3 +1,6 @@
+# Cocktail.com
+해당 프로젝트는 [위키백과](https://ko.wikipedia.org/wiki/%EC%B9%B5%ED%85%8C%EC%9D%BC)와 [나무위키](https://namu.wiki/w/%EC%B9%B5%ED%85%8C%EC%9D%BC) 등의 페이지를 참고하여 가독성 좋은 칵테일 웹사이트를 만드는 것을 목표로 한다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
