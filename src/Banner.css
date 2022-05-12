@@ -1,0 +1,13 @@
+.Banner_img{
+    width: 100%;
+    position: absolute;
+   
+}
+
+.Banner_total{
+    position: relative;
+    width:100%;
+    padding-top: 5%;
+    padding-bottom:30%;
+    overflow: hidden;
+}
