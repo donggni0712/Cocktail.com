@@ -5,9 +5,18 @@
 }
 
 .Banner_total{
-    position: relative;
+    position: absolute;
     width:100%;
     padding-top: 5%;
-    padding-bottom:30%;
+    padding-bottom:20%;
     overflow: hidden;
+}
+
+.Banner_title{
+    position : absolute;
+    color : white;
+    font-size: 500%;
+    top : 48%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
